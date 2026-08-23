@@ -1,4 +1,4 @@
-# Teorema de Braga  
+# Construção de Braga - estudo da sequência A078271
 
 eu imaginei o infinito e refleti...  
 
