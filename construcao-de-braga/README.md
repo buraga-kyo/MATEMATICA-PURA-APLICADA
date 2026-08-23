@@ -48,7 +48,7 @@ e pronto temos que ℬ(7) = 71625344352617
 para não ter que falar 1 kilo de texto sempre e explicar o caminho do pensar toda hora podemos resumir toda essa logica em:  
 
 $$
-\text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), \; i \right)
+\text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), i \right)
 $$
 
 isso vale para qualquer numero sem virgula maior que 1 (eu to tentando ao maximo não usar nenhum jargão matematico kkk)
