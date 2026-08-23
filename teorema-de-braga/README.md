@@ -26,13 +26,8 @@ oi meu nome é espelho, eu tenho propriedades que gritam ESPELHO ESPELHO ESPEEEE
 
 a primeira é obvia é um palindromo perfeito e a segunda é que cada par do digito equidistante do centro soma o digito + 1.  
 
-oque isso quer dizer né? kkk é tipo assim vamos partir do principio que  
+oque isso quer dizer né? kkk é tipo assim vamos partir do principio que
 
-$$
-\text{Para qualquer número } n, \text{ a soma de cada par de dígitos equidistantes do centro é sempre } n+1.
-$$
-
-oque isso quer dizer né? kkkk vamos abstrair a linguagem matematica
 escolha qualquer numero que da pra contar com os dedos... 7 por exemplo  
 
 vamos construir sua sequencia com zeros  
@@ -68,6 +63,4 @@ $$
 
 todo pensamento anterior foi escrito a proprio punho!
 
-não, não foi modelo pago, e uma dica em vez de usar IA para entender oque está sendo desvendado e/ou inventado agora; procure pensar por conta propria, IA não pensa mas você pode, experimente :) 
-
-(ela não tem dados para pesar a resposta, não foi treinada com nada parecido, logo é provavel que dê uma resposta negativa) 
+não, não foi modelo pago, e uma dica em vez de usar IA para entender oque está sendo desvendado e/ou inventado agora; procure pensar por conta propria, IA não pensa mas você pode, experimente ;)
