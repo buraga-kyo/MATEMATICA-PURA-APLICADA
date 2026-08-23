@@ -57,10 +57,6 @@ isso vale para qualquer numero sem virgula maior que 1 (eu to tentando ao maximo
 
 para ajudar no trabalho dos fiscais de IA de plantão venho por meio deste dizer que usei o DEEPSEEK para chegar na FORMULA
 
-$$
-\text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), \; i \right)
-$$
-
 todo pensamento anterior foi escrito a proprio punho!
 
 não, não foi modelo pago, e uma dica em vez de usar IA para entender oque está sendo desvendado e/ou inventado agora; procure pensar por conta propria, IA não pensa mas você pode, experimente ;)
