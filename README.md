@@ -27,7 +27,7 @@ MATEMATICA-UNINTER/
 │   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
 ├── pre-calculo/
 │   └── desvendando-a-matematica/          # Base para as disciplinas dos semestres
-├── teorema-de-braga/                      # Teorema da Engrenagem: artigo e implementações em C
+├── contrucao-de-braga/                    
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
 │   ├── include/                           # Headers com fórmulas, constantes, structs
 │   └── src/                               # Implementações, testes, algoritmos aplicados
@@ -42,7 +42,7 @@ MATEMATICA-UNINTER/
 | [Hall da Fama](./HALL-DA-FAMA.md) | Geometras e pensadores que abriram as rotas do conhecimento |
 | [Fundamentos da Matemática](./semestre1/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
 | [Introdução à Geometria Analítica](./semestre1/introducao-a-geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
-| [Teorema de BRAGA](./teorema-de-braga/) | ? |
+| [Construção de BRAGA](./teorema-de-braga/) | ? |
 | [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
 
 ---
