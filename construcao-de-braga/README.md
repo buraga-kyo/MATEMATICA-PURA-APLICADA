@@ -22,9 +22,7 @@ desde então venho procurando padrões nesse numero 918273645546372819
 
 voce entendeu como cheguei nele? eu liguei a sequencia numero com zero, para não termos o problem do infinito entre 1, 2, 3... depois refleti ele como o universo, ai pensei ok, e se eu tirar os zeros e descer a coluna de cima para baixo?.... para não ter que ficar escrevendo tantos numeros é tipo as duas colunas iniciais zipadas. enfim me deparei com esse numero que é tipo:  
 
-oi meu nome é espelho, eu tenho propriedades que gritam ESPELHO ESPELHO ESPEEEEEEEEEEEELHO;  
-
-a primeira é obvia é um palindromo perfeito e a segunda é que cada par do digito equidistante do centro soma o digito + 1.  
+oi meu nome é espelho, eu tenho propriedades que gritam ESPELHO ESPELHO ESPEEEEEEEEEEEELHO;
 
 oque isso quer dizer né? kkk é tipo assim vamos partir do principio que
 
