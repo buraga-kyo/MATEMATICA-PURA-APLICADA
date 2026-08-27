@@ -1,13 +1,11 @@
-# [![Cosmic Explorer](https://img.shields.io/badge/Bacharelado_em_Matematica-UNINTER-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-UNINTER)
+# [![Cosmic Explorer](https://img.shields.io/badge/Matemática pura e aplicada-EXODUS-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-PURA-APLICADA)
 
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
 
-Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enquanto curso o **Bacharelado em Matemática**, com um foco em **engenharia de software** (**C++**), **mercado financeiro**, **ciência espacial**, **modelagem computacional do universo**.
-
 ---
 
-## 🌌 O Projeto: **Exodus**
+## 🌌 **Exodus**
 
 <p align="center">
   <img src="./logo-exodus.png" alt="Logo do Projeto Exodus" width="300"/>
@@ -20,17 +18,12 @@ Bem-vindo ao meu repositório de estudos, códigos, anotações e projetos enqua
 ## 📂 Estrutura do Repositório
 
 ```text
-MATEMATICA-UNINTER/
+MATEMATICA-PURA-APLICADA/
 ├── EUCLIDES-ELEMENTA/                     # Transcripção commentada dos Elementos
-├── semestre1/
-│   ├── fundamentos-da-matematica/         # Leis básicas do cosmos e suas expressões em C++
-│   └── introducao-a-geometria-analitica/  # Eixos, vetores, curvas... o mapa para outras galáxias
+├── fundamentos/
 ├── pre-calculo/
-│   └── desvendando-a-matematica/          # Base para as disciplinas dos semestres
-├── contrucao-de-braga/                    
+├── contrucao-de-braga/                    # 
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
-│   ├── include/                           # Headers com fórmulas, constantes, structs
-│   └── src/                               # Implementações, testes, algoritmos aplicados
 └── README.md                              # Você está aqui (ou talvez já esteja em Alpha Centauri)
 ```
 ---
@@ -40,8 +33,6 @@ MATEMATICA-UNINTER/
 | Destino | O que você encontra lá |
 |---------|------------------------|
 | [Hall da Fama](./HALL-DA-FAMA.md) | Geometras e pensadores que abriram as rotas do conhecimento |
-| [Fundamentos da Matemática](./semestre1/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
-| [Introdução à Geometria Analítica](./semestre1/introducao-a-geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
 | [Construção de BRAGA](./teorema-de-braga/) | ? |
 | [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
 
