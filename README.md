@@ -1,3 +1,5 @@
+# MATEMATICA-PURA-APLICADA
+
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
 
@@ -17,10 +19,13 @@
 
 ```text
 MATEMATICA-PURA-APLICADA/
-├── EUCLIDES-ELEMENTA/                     # Transcripção commentada dos Elementos
+├── EUCLIDES-ELEMENTA/                     # Transcrição comentada dos Elementos
 ├── fundamentos/
+│   └── fundamentos-da-matematica/         # Trigonometria, logaritmos, sequências e geometria
+├── geometria/
+│   └── geometria-analitica/               # Retas, cônicas, transformações e vetores
 ├── pre-calculo/
-├── contrucao-de-braga/                    # 
+├── construcao-de-braga/                   #
 ├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
 └── README.md                              # Você está aqui (ou talvez já esteja em Alpha Centauri)
 ```
@@ -31,7 +36,9 @@ MATEMATICA-PURA-APLICADA/
 | Destino | O que você encontra lá |
 |---------|------------------------|
 | [Hall da Fama](./HALL-DA-FAMA.md) | Geometras e pensadores que abriram as rotas do conhecimento |
-| [Construção de BRAGA](./teorema-de-braga/) | ? |
+| [Fundamentos da Matemática](./fundamentos/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
+| [Geometria Analítica](./geometria/geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
+| [Construção de BRAGA](./construcao-de-braga/) | ? |
 | [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
 
 ---
