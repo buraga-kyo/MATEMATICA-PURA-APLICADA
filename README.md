@@ -1,5 +1,3 @@
-# [![Cosmic Explorer](https://img.shields.io/badge/Matemática pura e aplicada-EXODUS-9cf?logo=starship&style=for-the-badge)](https://github.com/bragaus/MATEMATICA-PURA-APLICADA)
-
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
 > — Eu, programando às 3 da manhã
 
