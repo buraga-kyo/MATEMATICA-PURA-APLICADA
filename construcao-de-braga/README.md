@@ -1,4 +1,4 @@
-# Construção de Braga - estudo da sequência A078271
+# Construção de Braga
 
 eu imaginei o infinito e refleti...  
 
@@ -18,7 +18,7 @@ ja sei !!
   
 EUREKA  
   
-desde então venho procurando padrões nesse numero 918273645546372819  
+desde então venho procurando padrões nesse numero 918273645546372819 (dias despois descobri que foi uma re-descorbeta kkk isso existe e é a sequência A078271)
 
 voce entendeu como cheguei nele? eu liguei a sequencia numero com zero, para não termos o problem do infinito entre 1, 2, 3... depois refleti ele como o universo, ai pensei ok, e se eu tirar os zeros e descer a coluna de cima para baixo?.... para não ter que ficar escrevendo tantos numeros é tipo as duas colunas iniciais zipadas. enfim me deparei com esse numero que é tipo:  
 
@@ -51,7 +51,7 @@ $$
 \text{ℬ}(n) = \bigoplus_{i=1}^{n} \left( (n - i + 1), i \right)
 $$
 
-isso vale para qualquer numero sem virgula maior que 1 (eu to tentando ao maximo não usar nenhum jargão matematico kkk)
+isso vale para qualquer numero sem virgula maior que 1 (eu to tentando ao maximo não usar nenhum jargão matematico kkk e é aqui onde a sequência A078271 deixa de fazer sentido, quando se entra com um numero maior que 10, ainda não fiz uma bateria de testes mas deixam de ser palindromos)
 
 para ajudar no trabalho dos fiscais de IA de plantão venho por meio deste dizer que usei o DEEPSEEK para chegar na FORMULA
 
