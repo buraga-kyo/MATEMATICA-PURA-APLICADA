@@ -1,7 +1,7 @@
-# MATEMATICA-PURA-APLICADA
+ # MATEMATICA-PURA-APLICADA
 
 > *"Não quero só aprender matemática... quero **codificar** o universo."*  
-> — Eu, programando às 3 da manhã
+> ブラガ 虚, programando às 3 da manhã
 
 ---
 
