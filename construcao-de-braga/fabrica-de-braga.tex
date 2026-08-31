@@ -1,0 +1,86 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb}
+\usepackage{geometry}
+\geometry{a4paper,margin=1in}
+\newcommand{\cat}{\oplus} % concatenação decimal
+
+\title{The Self-Labeled Multiplication Factory\\ \large (Constru\c{c}\~ao de Braga)}
+\author{M. Braga (Buraga Kyo)}
+\date{2026}
+
+\begin{document}
+\maketitle
+
+\section*{1. Definitions}
+Let $\cat$ denote decimal concatenation in base 10. The \emph{finite factory} is
+\[
+\mathcal{F}(t) = t \;\cat\; \bigoplus_{m=2}^{9}\big((t\cdot m)\;\cat\; m\big),
+\]
+and the \emph{infinite factory} is
+\[
+\mathcal{F}_{\infty}(t) = t \;\cat\; \bigoplus_{m=2}^{\infty}\big((t\cdot m)\;\cat\; m\big),
+\qquad t \ge 2.
+\]
+Each block appends the product $t\cdot m$ followed by its \emph{witness} $m$;
+the factory is therefore self-labeled.
+
+\section*{2. First outputs (data)}
+\begin{verbatim}
+F(2)   = 2426384105126147168189
+F(3)   = 36293124155186217248279
+F(4)   = 482123164205246287328369
+F(5)   = 5102153204255306357408459
+F(6)   = 6122183244305366427488549
+F(7)   = 7142213284355426497568639
+F(8)   = 8162243324405486567648729
+B(9)   = 918273645546372819
+F(189) = 189378256737564945511346132371512817019
+\end{verbatim}
+
+\section*{3. Compression Lemma (the soul of the 9)}
+For $2 \le m \le 8$,
+\[
+9(m+1) = 10m + (9-m),
+\]
+so the tens digit of $9(m+1)$ equals the previous witness $m$. Hence every
+witness is redundant and the mirror sequence arises as the compressed factory:
+\[
+\mathcal{B}(9) = \kappa\big(\mathcal{F}(9)\big) = 918273645546372819.
+\]
+For $t \neq 9$ the identity fails and no compression occurs: the nine is the
+unique self-compressible table in base 10.
+
+\section*{4. Properties of $\mathcal{F}_{\infty}(t)$}
+\begin{enumerate}
+\item[P1.] \textbf{Disjunctive.} Every finite digit string $s$ occurs as a
+contiguous block of $\mathcal{F}_{\infty}(t)$.
+\emph{Proof.} Choose $j$ with $10^{j} > t$ and $r \equiv -s\cdot 10^{j} \pmod t$,
+$0 \le r < t$. Then $t\cdot m = s\cdot 10^{j} + r$ is a product block whose
+decimal expansion begins with $s$. $\blacksquare$
+
+\item[P2.] \textbf{Irrational.} $0.\mathcal{F}_{\infty}(t) \notin \mathbb{Q}$.
+\emph{Proof.} Products of the form $t\cdot(5\cdot 10^{k}) = 5t\cdot 10^{k}$ end
+with $k$ zeros, and repunit witnesses $m=(10^{k}-1)/9$ yield runs of $k$ ones;
+an eventually periodic expansion cannot contain arbitrarily long runs.
+$\blacksquare$
+
+\item[P3.] \textbf{Asymptotic self-description.} The proportion of witness
+digits tends to $\tfrac{1}{2}$, since the digit-lengths of $t\cdot m$ and $m$
+differ by at most the constant $\lfloor \log_{10} t \rfloor + 1$.
+
+\item[P4.] \textbf{Computable.} $\mathcal{F}_{\infty}(t)$ is a computable real:
+the factory itself outputs the $n$-th digit in finite time.
+
+\item[P5.] \textbf{The body contains the soul.}
+$\mathcal{B}(9) = 918273645546372819$ occurs verbatim as the witness block at
+$m = 918273645546372819$. $\blacksquare$
+\end{enumerate}
+
+\section*{5. Open question}
+Is $0.\mathcal{F}_{\infty}(t)$ normal in base $10$? (Champernowne's and
+Copeland--Erd\H{o}s's constants are normal; the pair-structure
+$(t\cdot m,\, m)$ introduces correlations for which normality remains open.)
+
+\end{document}
