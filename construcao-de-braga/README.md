@@ -75,6 +75,9 @@ vamos mudar rapidamente o infinito da fabrica para de m=2 a 9, para facilitar a 
 
 tem alguns padrões interessantes, o penultimo numero é decescente e o antipenultimo é crescente, mas de longe o mais interessante é; Vamos voltar a fabrica original até o inifito, para qualquer numero que você entrar ℱ(9) por exemplo, é uma sequencia DISJUNTIVA, isso quer dizer que seu CPF, seu numero de celular, sua senha e seu numero de cartão de credito aparece nessa sequencia ;) QUALQUER SENHA, CPF, NUMERO DA MEGA SENA do mundo aparece nesse caralho aqui, vlw vou dormir.
 
+
+Obs0: crl descobri que varias sequencias que essa função cria não tem no OEIS, EUREKA! ate o momento 3,6,2,9,3,1,2,4,1,5,5,1,8,6,2,1,7,2,4,8,2,7,9 que é a sequencia gerada com ℱ(3) não existe lá; fiz um OEIS pra mim ;) vamos ver se aceitam rsrsr OEIS A397143 https://oeis.org/draft/A397143  
+
 Obs1: eu sei quem é David Gawen Champernowne
 
 Bom em uma era de IA esta cada vez mais importante ser humano! estudar as pessoas do passado é o proximo passo para evolução! [musica de fundo dramatica]
