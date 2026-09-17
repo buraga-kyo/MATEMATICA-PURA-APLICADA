@@ -9,3 +9,6 @@ você agora virou a reta que tem algum nome importante mas apenas tenha em mente
 isso é chamado de angulo, a distancia que o objeto girou dentro do circulo.
 o nome importante que falei antes é perpendicular, isso mesmo, você é uma reta perpendicular ao chão
 
+a forma de medir a rotação é comunmente chamada de grau e se você der uma volta completa no circulo então você rotacionou 360 graus
+o numero 360 a principio é um numero que foi decidido por varias pessoas no passado que seria esse numero, poderia ser 100, 1000, 75; Uma volta coompleta no circulo ser 360 é um "nome"
+mas não podemos deixar de ver que o 360 é bem interessante. depois vou explorar melhor suas propriedades.
