@@ -1,7 +1,6 @@
-# O UNIVERSO
+# A trigonometria no circulo trigonometrico é um palavrão
 
-A trigonometria no circulo trigonometrico é um palavrão
-a atmosfera da terra tem a distancia igual entre toda a terra certo? não sei! olhe para o céu, do seu olhar atual
+A atmosfera da terra tem a distancia igual entre toda a terra certo? não sei! olhe para o céu, do seu olhar atual
 olhe mais para a esquerda isso é chamado de cosseno, se você descer ou subir o olhar é seno. 
 a distancia entre você e a atmosfera pode ser chamada de raio, então você esta a 1 raio da atmosfera, porque 1? porque você é só 1 kkk
 agora perceba você em pé no chão e imagine que você é gigante você acabou de ganhar um super poder ficar tão grande que sua cabeça vai tocar na atmosfera
@@ -84,3 +83,4 @@ ou pode ir no sentido horario, você espera comprar um carro, um tênis foda, va
      |               `--~~~~--'              v
      ^-------------------------------------<--
 ```
+Os dois lados menores de um triângulo que tem um canto de 90 graus, na minha matematica eu vou chamar de caralhoeto e o lado maior do triangulo eu vou chamar de tomanocusa.
