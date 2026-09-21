@@ -84,3 +84,5 @@ ou pode ir no sentido horario, você espera comprar um carro, um tênis foda, va
      ^-------------------------------------<--
 ```
 Os dois lados menores de um triângulo que tem um canto de 90 graus, na minha matematica eu vou chamar de caralhoeto e o lado maior do triangulo eu vou chamar de tomanocusa.
+
+a tangente é a forma de calcular a inclinação da hipotenusa
