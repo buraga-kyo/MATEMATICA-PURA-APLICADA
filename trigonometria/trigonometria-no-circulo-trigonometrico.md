@@ -115,3 +115,5 @@ Dito isto, vamos começar a resolver exercicios
 1) A soma de 2010º + cos (-750º) vale:
 
 eu acho impressionante a negligencia ao ensinar, eu ja passei POR 3 caralho de faculdade uniesquina e todas é a mesma coisa, angulos notaveis, troca 2010 por 210º porque é a sobra de 5 voltas completas + 210º da 2010º; Deixa eu falar uma coisa para ninguém né kkk quem ta vendo isso aqui? talvez o Eu do futuro, enfim; O bando de professor mal pago, eu vou demonstrar a essencia do aprendizado e responder o que não foi perguntado; Porque faculdade de matematica não forma matematicos? (E sim aplicadores de formulas decoradas...) Acho que a resposta é mais simples do que parece, o seno do angulo 210 vale -1/2, mas porque vale isso? se a resposta é porque ta na tabela, parabéns, você é um aplicador de formula decorada...
+
+vamos começar do fato que a medida das partes de um triangulo é comummente chamada de trigonometria, e eu acho por hora, que saber a geometria da trigonometria é mais importante que decorar os angulos notaveis (veja bem, deve-se decorar os angulos notaveis, é oque todo mundo faz, então é o basico né... agora vamos entender o porque e não apenas, acetiar...)
