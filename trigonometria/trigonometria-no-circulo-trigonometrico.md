@@ -207,3 +207,7 @@ qc                                           )p
            'Tqbb____,     .____ddpT`           
               '"TTYqq|||||ppYTT"`   
 ```
+Não posso deixar de mencionar que o professor falou "geometriazinha barata" na aula de hoje hahahsudhausdh foi muito bom; enfim segue mais alguns palavrões da geometria, coisa boba, matematica basica  
+Cossecante    
+Cotangente  
+depois anoteu a proprio punho os angulos notaveis multiplos de 30 e 45, e seus repectivos valores da cot e cossec, hoje não deu pra continuar a viagem do ciclope com canguru galera; vou dormir voltei a usar java ;) C++ eu te amo fica tranquilo
