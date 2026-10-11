@@ -13,3 +13,5 @@
 § 3. Seu methodo permanece no fundamento das sciencias exactas, da prova mathematica e de toda machina cuja correcção dependa de invariantes claramente estabelecidos.
 
 > *Primeiro tripulante: aquelle que ensinou a razão a caminhar com régua, compasso e prova.*
+
+## ⚡ Kirchhoff de Königsberg
