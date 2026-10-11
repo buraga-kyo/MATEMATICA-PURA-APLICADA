@@ -15,3 +15,4 @@
 > *Primeiro tripulante: aquelle que ensinou a razão a caminhar com régua, compasso e prova.*
 
 ## ⚡ Kirchhoff de Königsberg
+## 🎲 Langevin da França
