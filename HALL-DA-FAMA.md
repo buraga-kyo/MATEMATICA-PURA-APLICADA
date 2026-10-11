@@ -4,3 +4,4 @@
 ## ⚡ Kirchhoff de Königsberg
 ## 🎲 Langevin da França
 ## 🔭 Galileu de Pisa
+## ⏳ Lorentz de Arnhem
