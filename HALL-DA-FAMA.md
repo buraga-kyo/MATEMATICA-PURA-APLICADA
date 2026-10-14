@@ -6,3 +6,4 @@
 ## 🔭 Galileu de Pisa
 ## ⏳ Lorentz de Arnhem
 ## ⚛️ Planck de Quiel
+## 🧲 Maxwell da Escócia 
