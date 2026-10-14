@@ -5,3 +5,4 @@
 ## 🎲 Langevin da França
 ## 🔭 Galileu de Pisa
 ## ⏳ Lorentz de Arnhem
+## ⚛️ Planck de Quiel
