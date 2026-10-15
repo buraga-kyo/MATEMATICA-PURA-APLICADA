@@ -8,3 +8,4 @@
 ## ⚛️ Planck de Quiel
 ## 🧲 Maxwell da Escócia 
 ## 🧮 Hilbert de Königsberg
+## ⚛️ Bohr da Dinamarca
