@@ -7,3 +7,4 @@
 ## ⏳ Lorentz de Arnhem
 ## ⚛️ Planck de Quiel
 ## 🧲 Maxwell da Escócia 
+## 🧮 Hilbert de Königsberg
