@@ -1,11 +1,11 @@
 <div align="center">
+ 
  # { A Arte de Aprender Pura e Aplicada }
+</div>
 
 > *"Deles viemos, de nós descrevemos."*
 > 
-> — **Matheus Braga Almeida, 2026.  
-</div>
-
+> — **Matheus Braga Almeida**, 2026.  
 ---
 
 ## 🌌 **Exodus**
