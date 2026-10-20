@@ -1,7 +1,10 @@
- # MATEMATICA-PURA-APLICADA
+<div align="center">
+ # { A Arte de Aprender Pura e Aplicada }
 
-> *"Não quero só aprender matemática... quero **codificar** o universo."*  
-> ブラガ 虚, programando às 3 da manhã
+> *"Deles viemos, de nós descrevemos."*
+> 
+> — **Matheus Braga Almeida, 2026.  
+</div>
 
 ---
 
