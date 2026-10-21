@@ -8,44 +8,6 @@
 > — **Matheus Braga Almeida**, 2026.  
 ---
 
-## 🌌 **Exodus**
-
-<p align="center">
-  <img src="./logo-exodus.png" alt="Logo do Projeto Exodus" width="300"/>
-</p>
-
-**Exodus** é uma *visão*: usar matemática, programação e arte para entender, representar e navegar pelo espaço.
-
----
-
-## 📂 Estrutura do Repositório
-
-```text
-MATEMATICA-PURA-APLICADA/
-├── EUCLIDES-ELEMENTA/                     # Transcrição comentada dos Elementos
-├── fundamentos/
-│   └── fundamentos-da-matematica/         # Trigonometria, logaritmos, sequências e geometria
-├── geometria/
-│   └── geometria-analitica/               # Retas, cônicas, transformações e vetores
-├── pre-calculo/
-├── construcao-de-braga/                   #
-├── canivete-suico-cpp/                    # Minha biblioteca pessoal de matemática em C++
-└── README.md                              # Você está aqui (ou talvez já esteja em Alpha Centauri)
-```
----
-
-## 🧭 Rotas de Navegação
-
-| Destino | O que você encontra lá |
-|---------|------------------------|
-| [Hall da Fama](./HALL-DA-FAMA.md) | Geometras e pensadores que abriram as rotas do conhecimento |
-| [Fundamentos da Matemática](./fundamentos/fundamentos-da-matematica/) | Trigonometria, logaritmos, sequências, geometria plana e espacial |
-| [Geometria Analítica](./geometria/geometria-analitica/) | Retas, cônicas, rotação de eixos e vetores no plano |
-| [Construção de BRAGA](./construcao-de-braga/) | ? |
-| [Manual de Bordo](./MANUAL-DE-BORDO.md) | O padrão de escrita que toda anotação da nave segue |
-
----
-
 ```text
 //===============================================
 //  CYBER-MATH ++ | [A MATRIX É VOCÊ]
@@ -59,13 +21,6 @@ while (vida) {
     compilar_com_raiva();
 }
 ```
-
-## 📜 Licença
-
-License: CC BY 4.0
-
-Copia, remixa, vende, fecha o código, constrói o que caralhos você quiser em cima;
-A única exigência é crédito: **braga US**, você me sente?
 
 ```text
 
