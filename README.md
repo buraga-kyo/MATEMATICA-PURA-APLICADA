@@ -9,12 +9,6 @@
 ---
 
 ```text
-//===============================================
-//  CYBER-MATH ++ | [A MATRIX É VOCÊ]
-//  (c) 2025 - AGENTE [REDACTED]
-//  DISCLAIMER: Esse código atravessa dimensões
-//===============================================
-
 while (vida) {
     estudar();
     codar();
