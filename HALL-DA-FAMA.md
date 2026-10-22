@@ -1,5 +1,6 @@
-# 🏛️ Hall da Fama
+#  Hall da Fama
 
+## 🏛️ Platão de Atenas
 ## 📐 Euclides de Alexandria
 ## ⚡ Kirchhoff de Königsberg
 ## 🎲 Langevin da França
