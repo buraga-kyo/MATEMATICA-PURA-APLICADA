@@ -2,6 +2,7 @@
 
 ## 🏛️ Platão de Atenas
 ## 📐 Euclides de Alexandria
+## 🛁 Arquimedes de Siracusa
 ## ⚡ Kirchhoff de Königsberg
 ## 🎲 Langevin da França
 ## 🔭 Galileu de Pisa
