@@ -19,3 +19,4 @@
 
 ## 🍎 Turing da Inglaterra
 ## ⚙️ Babbage da Inglaterra
+## 👩‍💻 Ada da Inglaterra
