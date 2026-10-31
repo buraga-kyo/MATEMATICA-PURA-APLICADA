@@ -15,3 +15,6 @@
 ## 🧮 Hilbert de Königsberg
 ## ⚛️ Bohr da Dinamarca
 ## 🌫️ Heisenberg de Leipzig
+
+
+## 🍎 Turing da Inglaterra
