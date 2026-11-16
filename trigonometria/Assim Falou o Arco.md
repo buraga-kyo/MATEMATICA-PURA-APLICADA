@@ -1,4 +1,7 @@
-# A trigonometria no circulo trigonometrico é um palavrão
+# Contos do circulo a partir do ponto de vista do arco
+ 
+
+A trigonometria no circulo trigonometrico é um palavrão
 
 A atmosfera da terra tem a distancia igual entre toda a terra certo? não sei! olhe para o céu, do seu olhar atual
 olhe mais para a esquerda isso é chamado de cosseno, se você descer ou subir o olhar é seno. 
